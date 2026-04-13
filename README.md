@@ -6,3 +6,5 @@ I'm going to upload my daily study progress to this repository
     A：在更改json文件后，该问题解决  
 3、 Q: 问题解决了，但我的文件夹中多了一个.VScode文件夹，里面有json文件  
     A:当您针对特定项目修改 VS Code 设置时，VS Code 会自动创建这个文件夹来存放项目级配置。(总结：没啥影响)  
+### 今天4月13日， 开始学习numpy
+
