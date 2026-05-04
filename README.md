@@ -9,3 +9,5 @@ I'm going to upload my daily study progress to this repository
 ### 今天4月13日， 开始学习numpy
 ### 今天4月15日， 用一天的时间下载了ros系统及其配套的软件以及环境
 ### 今天四月16日，继续学习ros
+### 5月4日 以后我将在这里提交我的强化学习进度，ros学习改到了另一个代码库Daily_ros2_study
+    今天继续学习贝尔曼公式，理解含义以及求解方法
